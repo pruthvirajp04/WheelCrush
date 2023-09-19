@@ -1,8 +1,8 @@
 [
   {
     "version": "",
-    "banner": 0,
-    "wudian": 1,
+    "banner": 1,
+    "wudian": 0,
     "wudianTime": {
       "0": 1,
       "1": 1,
@@ -33,19 +33,15 @@
     "mailianglist":  [],
     "mailiangScenelist":  [],
     "wxwudianbanners":  [],
-    "recreateBannerIDList":[],
-    "bannerRecreateTime":5,
-    "kuangdianjiange":0,
     "btnMoveTimer": 1,
     "bannerMoveTimer": 1,
     "bannerFreshTimer": 200,
     "createFailNum": 3,
     "todayBannerMax": 10,
-    "adSwitch":1,
+    "adSwitch":0,
     "wudianSceneList":[],
     "continueBtnDelayTime":2,
     "bannerShowTime":30,
-    "fakeBtn":1,
     "oppocfg":
     {
       "yuansheng": 100,
@@ -54,24 +50,20 @@
       "oppoversions" : "",
       "btnShowTimer" : 0,
       "indexAdSwitch" : 0,
-      "endAdSwitch" : 0,
-      "yuansheng2": 100,
-      "yuanshengSwitch2" : 1
+      "endAdSwitch" : 0
     },
     "qqcfg":
     {
       "kuangdianBanner": 0,
       "kuangdianBox": 0,
       "box": 0,
-      "weiyi": 0,
-      "qqversions": ""
+      "weiyi": 0
     },
     "ttcfg":
     {
       "moreGameSwitch": 0,
       "kuangdianBanner": 0,
-      "luping": 0,
-      "ttversions": ""
+      "luping": 0
     }
   }
 ]

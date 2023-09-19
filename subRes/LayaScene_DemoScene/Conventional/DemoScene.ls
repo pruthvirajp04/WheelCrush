@@ -35,15 +35,15 @@
 					"isStatic":false,
 					"layer":0,
 					"position":[
-						5.68,
-						3.63,
-						23.31
+						4.06,
+						1.99,
+						24.3
 					],
 					"rotation":[
-						-0.05980318,
-						0.5195831,
-						0.02838268,
-						0.8518518
+						-0.03718209,
+						0.3896984,
+						-0.007732499,
+						0.9201592
 					],
 					"scale":[
 						1,
@@ -97,33 +97,6 @@
 					"intensity":1,
 					"lightmapBakedType":0,
 					"color":[
-						1,
-						1,
-						1
-					]
-				},
-				"components":[],
-				"child":[]
-			},
-			{
-				"type":"Sprite3D",
-				"props":{
-					"name":"AI",
-					"active":true,
-					"isStatic":false,
-					"layer":0,
-					"position":[
-						-5,
-						0,
-						0
-					],
-					"rotation":[
-						0,
-						0,
-						0,
-						-1
-					],
-					"scale":[
 						1,
 						1,
 						1

@@ -17,9 +17,9 @@
 		"alphaTest":false,
 		"alphaTestValue":0.5,
 		"renderQueue":2000,
-		"albedoIntensity":1.95,
+		"albedoIntensity":2.05,
 		"enableLighting":true,
-		"shininess":0.03,
+		"shininess":0.041,
 		"textures":[
 			{
 				"name":"albedoTexture",
@@ -59,9 +59,9 @@
 			{
 				"name":"albedoColor",
 				"value":[
-					0.8088235,
-					0.8088235,
-					0.8088235,
+					1,
+					0.8460446,
+					0.5147059,
 					1
 				]
 			}
